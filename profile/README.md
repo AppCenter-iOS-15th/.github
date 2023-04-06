@@ -3,7 +3,7 @@
 
 ## 🍎 15기 🍎
 
-|최용현|오혜령|강수호|김응철|이창준|
+|최용헌|오혜령|강수호|김응철|이창준|
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/121111413?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/63331572?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/67592155?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/97531269?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/60438045?v=4" width=200>|
 |[@rrheon](https://github.com/rrheon)|[@OHRRRRR](https://github.com/OHRRRRR)|[@tnghrkd](https://github.com/tnghrkd)|[@eung7](https://github.com/eung7)|[@nomatterjun](https://github.com/nomatterjun)|
