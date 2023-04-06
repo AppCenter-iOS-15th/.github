@@ -13,4 +13,6 @@
 
 ## 🎯 커리큘럼
 
-### 1주차
+|주차|주체|Wiki|
+|:-:|:-:|:-:|
+|1주차|로그인 UI|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#1%EC%A3%BC%EC%B0%A8)|
