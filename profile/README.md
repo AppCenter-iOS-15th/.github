@@ -15,8 +15,8 @@
 
 |주차|주체|Wiki|
 |:-:|:-:|:-:|
-|1주차|**로그인 UI**|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#1%EC%A3%BC%EC%B0%A8)|
-|2주차|**홈 UI**|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#2%EC%A3%BC%EC%B0%A8)|
+|1주차|~~**로그인 UI**~~|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#1%EC%A3%BC%EC%B0%A8)|
+|2주차|~~**홈 UI**~~|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#2%EC%A3%BC%EC%B0%A8)|
 |3주차|**홈 UI**|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#3%EC%A3%BC%EC%B0%A8)|
 |4주차|**편집 UI**|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#4%EC%A3%BC%EC%B0%A8)|
 |5주차|**로컬 데이터**|[Link](https://github.com/AppCenter-iOS-15th/.github/wiki/%F0%9F%8E%AF-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC#5%EC%A3%BC%EC%B0%A8)|
